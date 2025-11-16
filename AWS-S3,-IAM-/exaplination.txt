@@ -1,0 +1,20 @@
+AWS 
+
+from s3 when we create  This is called Object --> we can save in that object [ mp4, videos , files ]  
+
+Note : Here files will be Object
+Bucket   is called Container 
+
+
+***In AWS Object OwnerShip [  means : if you want give Access to another AWS Account User you s3 bucket ] 
+
+ACL Disabled Defeault 
+
+
+*** Bucket Versioning  [ means : if you want files , you need to give any versions to files then we will use this  ]  
+
+*** Tag  [ means : if created bucket is taking to much cost with tag you can find easly ]  
+
+**** Default encryption [  means :  file is always encripted format (upload and Download encripted , Decription  ]  
+
+
